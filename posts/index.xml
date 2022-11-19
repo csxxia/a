@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My First Hugo Site --- A great start</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My First Hugo Site --- A great start</description>
+    <title>Posts on My first deployed site --- A great start with GitHub</title>
+    <link>https://csxxia.github.io/posts/</link>
+    <description>Recent content in Posts on My first deployed site --- A great start with GitHub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Nov 2022 21:49:37 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Nov 2022 21:49:37 +0800</lastBuildDate><atom:link href="https://csxxia.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://csxxia.github.io/posts/my-first-post/</link>
       <pubDate>Sat, 19 Nov 2022 21:49:37 +0800</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://csxxia.github.io/posts/my-first-post/</guid>
       <description>Xianjin&amp;rsquo;s first post.</description>
     </item>
     
